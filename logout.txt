@@ -1,1 +1,1 @@
-this is the logout feature
+Fixed a minor bug
